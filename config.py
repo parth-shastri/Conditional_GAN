@@ -1,0 +1,9 @@
+
+IMAGE_SHAPE = (28, 28, 1)
+CKPT_DIR = "CGAN-ckpt/train-1"
+CKPT_PREFIX = "ckpt"
+LOG_DIR = "logs/"
+
+NOISE_DIM = 128
+BATCH_SIZE = 32
+EPOCHS = 30
